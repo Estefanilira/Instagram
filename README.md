@@ -29,7 +29,8 @@ Aqui estão as tecnologias utilizadas neste projeto.
 No entanto este projeto foi feito apenas a interface grafica da pagina inicial de login do Instagram.
 
 
-![projeto-instagram.gif](https://github.com/Estefanilira/Instagram/tree/main/img/projeto-instagram.gif)
+![projeto-instagram-min](https://github.com/Estefanilira/Instagram/assets/126111557/f9a049d8-7c5f-4367-829b-12e609332c67)
+
 
 
 ## Autores
