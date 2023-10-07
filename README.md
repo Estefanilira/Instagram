@@ -33,7 +33,5 @@ No entanto este projeto foi feito apenas a interface grafica da pagina inicial d
 
 
 
-## Autores
-
-* Estefani K W Lira : @Estefanilira ( https://github.com/Estefanilira )
+## 
 Siga o github e junte-se a nós! Obrigado por me visitar e boa codificação!
