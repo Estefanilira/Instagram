@@ -1,4 +1,4 @@
-![insta-logo](https://github.com/Estefanilira/Instagram/assets/126111557/44f3da32-1e9c-400e-a781-a5ce06399522)
+
 
 # Instagram Clone Project
 
